@@ -4,13 +4,14 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "complexoperations_iperoyg"
-version = "0.1.4"
+version = "0.1.5"
 authors = [
   { name="Arthur Iperoyg", email="iperoyg@gmail.com" },
+  { name="Ramon Durães", email="ramongduraes@gmail.com" },
 ]
 description = "Complex Operations Package"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.7"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
@@ -18,5 +19,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/iperoyg/devops-experiments"
-"Bug Tracker" = "https://github.com/iperoyg/devops-experiments/issues"
+"Homepage" = "https://github.com/ramongduraes/devops-experiments"
+"Bug Tracker" = "https://github.com/ramongduraes/devops-experiments/issues"
